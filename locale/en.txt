@@ -1,0 +1,47 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 5
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Multiline Text
+HTMLText_B96CD534_B44D_3F42_41B0_9D38CA138EB9.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;"><B>{{Title}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><B>{{Subtitle}}</B></SPAN></DIV><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:14px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 3F
+
+## Media
+
+### Subtitle
+panorama_EC3677E9_E5F7_E3D5_41E2_0C7AFA07B0AC.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+panorama_EC488006_E5F7_1C5E_41EA_948DE2910AE6.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+panorama_EC48EDCD_E5F7_67D2_41D2_639ACCD82ECC.subtitle = 1- CMED Provide (Power Socket, Data & Power Point) \
+2- Projector Screen with remote-control is by client \
+3- Projector & mechanism remote-control is by client
+panorama_EF4CAFD2_E5F7_E3F7_41EB_C637098E41FE.subtitle = 1-The design and scope of works for the gym including the counter \
+and the equipment is not part of CMED scope and is to the operator.
+
+### Title
+map_ED7E8545_E60B_24DD_41CB_B18F0BB884CB.label = 3F - Key layout
+panorama_EC3677E9_E5F7_E3D5_41E2_0C7AFA07B0AC.label = Note:
+panorama_EC488006_E5F7_1C5E_41EA_948DE2910AE6.label = Note:
+panorama_EC48EDCD_E5F7_67D2_41D2_639ACCD82ECC.label = Note:
+panorama_EF4CAFD2_E5F7_E3F7_41EB_C637098E41FE.label = Note:
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
